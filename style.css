@@ -2,6 +2,10 @@ html {
     font-size: 28px;
 }
 
+input, button {
+    font-size: 24px;
+}
+
 .logo {
     max-width: 400px;
 }
@@ -71,6 +75,10 @@ html {
 @media screen and (max-width: 800px) {
     html {
         font-size: 20px;
+    }
+
+    input, button {
+        font-size: 18px;
     }
 
     h2 {
